@@ -1,4 +1,4 @@
-package com.example.razzcalculator;
+package com.example.kumarcalculator;
 
 import org.junit.Test;
 

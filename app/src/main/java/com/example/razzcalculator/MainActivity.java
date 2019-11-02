@@ -1,4 +1,4 @@
-package com.example.razzcalculator;
+package com.example.kumarcalculator;
 
 import androidx.appcompat.app.AppCompatActivity;
 
