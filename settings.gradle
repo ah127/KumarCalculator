@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 include ':app'
 rootProject.name='KumarCalulator'
-=======
-include ':app'
-rootProject.name='RaZzCalculator'
->>>>>>> f732acf7197d3c704b0d668957a38ddc88db12b4
